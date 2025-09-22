@@ -1,8 +1,5 @@
 ## Установка русской локализации мода Warp Drive Machine
 
-<details>
-<summary>Пошаговая инструкция</summary>
-
 1. **Установите мод**  
    Скачайте и установите мод `Warp Drive Machine` как обычно.
 
@@ -11,12 +8,12 @@
    
 C:\Program Files (x86)\Factorio\data\Warp-Drive-Machine\locale
 
-4. **Создайте папку для русского языка**  
-Внутри `locale` создайте папку `ru`:
+3. **Создайте папку для русского языка**  
+Внутри `locale` создайте папку `ru`:  
 
 C:\Program Files (x86)\Factorio\data\Warp-Drive-Machine\locale\ru
 
-5. **Скопируйте конфиг локализации**  
+4. **Скопируйте конфиг локализации**  
 Скачайте архив с конфигом из релизов репозитория:  
 [Скачать конфиг 1.0](https://github.com/valorwing/-Warp-Drive-Machine-Ru-locale/releases/tag/1.0)  
 
